@@ -1,0 +1,4 @@
+2024-04-15 16:53:59,097:DEBUG:discord.client: on_ready has successfully been registered as an event
+2024-04-15 16:53:59,097:INFO:discord.client: logging in using static token
+2024-04-15 16:54:00,448:INFO:discord.gateway: Shard ID None has connected to Gateway (Session ID: e929198d0fd4c3f10f51754ed26d2ac1).
+2024-04-15 16:54:02,792:INFO:discord: Logged in as Cronus Mainframe#1250 (ID: 1229296117309636729)
