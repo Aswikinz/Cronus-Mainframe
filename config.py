@@ -1,0 +1,4 @@
+# CronusMainframe/config.py
+
+TOKEN = 'YOUR_BOT_TOKEN_HERE'
+MODERATOR_ROLE_ID = 'MODERATOR_ROLE_ID_HERE'
